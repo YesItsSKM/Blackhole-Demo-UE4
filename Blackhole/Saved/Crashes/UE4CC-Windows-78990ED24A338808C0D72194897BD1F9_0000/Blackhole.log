@@ -1,0 +1,1709 @@
+﻿Log file open, 03/11/22 15:19:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Blackhole
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.349788
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Engine.ini]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Engine.ini]
+[2022.03.11-15.19.41:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Engine.ini]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Engine.ini]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.11-15.19.41:272][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Engine.ini]
+[2022.03.11-15.19.41:272][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Engine.ini]
+[2022.03.11-15.19.41:276][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.11-15.19.41:276][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.11-15.19.41:277][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.11-15.19.41:277][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.11-15.19.41:277][  0]LogHAL: Display: Platform has ~ 16 GB [17095184384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.11-15.19.41:277][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.11-15.19.41:277][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.11-15.19.41:277][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Scalability.ini]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.11-15.19.41:278][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.11-15.19.41:279][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.11-15.19.41:279][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.11-15.19.41:279][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.11-15.19.41:279][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Engine.ini]
+[2022.03.11-15.19.41:279][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Config/Windows/Editor.ini]
+[2022.03.11-15.19.41:279][  0]LogInit: Computer: SKM_LEGION
+[2022.03.11-15.19.41:279][  0]LogInit: User: crazy
+[2022.03.11-15.19.41:279][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.11-15.19.41:279][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.11-15.19.41:279][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.03.11-15.19.41:279][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.11-15.19.41:279][  0]LogMemory: Process Physical Memory: 146.84 MB used, 147.05 MB peak
+[2022.03.11-15.19.41:279][  0]LogMemory: Process Virtual Memory: 130.14 MB used, 130.14 MB peak
+[2022.03.11-15.19.41:279][  0]LogMemory: Physical Memory: 8896.61 MB used,  7406.63 MB free, 16303.24 MB total
+[2022.03.11-15.19.41:279][  0]LogMemory: Virtual Memory: 134213064.00 MB used,  4664.24 MB free, 134217728.00 MB total
+[2022.03.11-15.19.41:283][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.11-15.19.41:318][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.11-15.19.41:319][  0]LogInit: Using OS detected language (en-US).
+[2022.03.11-15.19.41:319][  0]LogInit: Using OS detected locale (en-IN).
+[2022.03.11-15.19.41:321][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.11-15.19.41:494][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.11-15.19.41:506][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.11-15.19.41:518][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.11-15.19.41:518][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.11-15.19.41:612][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.11-15.19.41:666][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.03.11-15.19.41:666][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.11-15.19.41:666][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.11-15.19.41:666][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.11-15.19.41:750][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2022.03.11-15.19.41:750][  0]LogD3D11RHI:       5980/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.11-15.19.41:751][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.11-15.19.41:751][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.11-15.19.41:751][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.11-15.19.41:751][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.03.11-15.19.41:751][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.11-15.19.41:752][  0]LogD3D11RHI:     DeviceId    : 1f11
+[2022.03.11-15.19.41:752][  0]LogD3D11RHI:     SubSysId    : 3ffd17aa
+[2022.03.11-15.19.41:752][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.11-15.19.41:752][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.03.11-15.19.41:752][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.11-15.19.41:752][  0]LogD3D11RHI:     SharedSystemMemory : 8547592192 bytes
+[2022.03.11-15.19.41:752][  0]LogD3D11RHI:     AdapterLuid : 0 54348
+[2022.03.11-15.19.41:759][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.11-15.19.41:759][  0]LogD3D11RHI:     GPU DeviceId: 0x1f11 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.11-15.19.41:759][  0]LogWindows: EnumDisplayDevices:
+[2022.03.11-15.19.41:759][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2022.03.11-15.19.41:759][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.11-15.19.41:759][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.11-15.19.41:759][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2022.03.11-15.19.41:759][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.11-15.19.41:759][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.03.11-15.19.41:759][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.03.11-15.19.41:759][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.03.11-15.19.41:759][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     DeviceId    : 1f11
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     SubSysId    : 3ffd17aa
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     DedicatedVideoMemory : 6270484480 bytes
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     SharedSystemMemory : 8547592192 bytes
+[2022.03.11-15.19.41:760][  0]LogD3D11RHI:     AdapterLuid : 0 54348
+[2022.03.11-15.19.41:808][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.11-15.19.41:808][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.11-15.19.41:808][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.11-15.19.41:829][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.03.11-15.19.41:852][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.11-15.19.42:124][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.11-15.19.42:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.11-15.19.42:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.11-15.19.42:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.11-15.19.42:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.11-15.19.42:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.11-15.19.42:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.11-15.19.42:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.11-15.19.42:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.11-15.19.42:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.11-15.19.42:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.11-15.19.42:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.11-15.19.42:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.11-15.19.42:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.11-15.19.42:226][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.11-15.19.42:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.11-15.19.42:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.11-15.19.42:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.11-15.19.42:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.11-15.19.42:248][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.11-15.19.42:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.11-15.19.42:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.11-15.19.42:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.11-15.19.42:260][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.11-15.19.42:266][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.11-15.19.42:292][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.11-15.19.42:319][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.11-15.19.42:319][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Intermediate/Shaders/WorkingDirectory/24884/).
+[2022.03.11-15.19.42:319][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/crazy/AppData/Local/Temp/UnrealShaderWorkingDir/1118D6844B012BBA85FA959F36BD9CE6/'.
+[2022.03.11-15.19.42:319][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.11-15.19.42:319][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.11-15.19.42:319][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.11-15.19.43:075][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.11-15.19.43:125][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/crazy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.11-15.19.43:125][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/crazy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.11-15.19.43:125][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.11-15.19.43:125][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.11-15.19.43:125][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.11-15.19.43:125][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.11-15.19.43:141][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.11-15.19.43:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.11-15.19.43:141][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.11-15.19.43:147][  0]LogDerivedDataCache: Speed tests for C:/Users/crazy/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.11-15.19.43:147][  0]LogDerivedDataCache: Display: Performance to C:/Users/crazy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1734.49MBs, RandomWriteSpeed=158.47MBs. Assigned SpeedClass 'Local'
+[2022.03.11-15.19.43:148][  0]LogDerivedDataCache: Using Local data cache path C:/Users/crazy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.11-15.19.43:148][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.11-15.19.43:148][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.11-15.19.43:197][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.11-15.19.43:198][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.11-15.19.43:220][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.03.11-15.19.43:474][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.11-15.19.43:474][  0]LogInit: Active device profile: [000001A1A5A90900][000001A1A63884C0 49] Windows
+[2022.03.11-15.19.43:474][  0]LogInit: Profiles: [000001A1A5A90900][000001A1A63884C0 49] Windows, [000001A1A5A5B800][000001A1A5756640 49] WindowsNoEditor, [000001A1A5A93500][000001A196BF4780 49] WindowsServer, [000001A1A5A58E00][000001A1A575A8C0 49] WindowsClient, [000001A1A5A93800][000001A1A54D4A00 49] IOS, [000001A1A5A5A800][000001A1A54D8B40 49] iPadAir, [000001A1A5A92000][000001A1A5F76CC0 49] iPadAir2, [000001A1A59FCA00][000001A196BCCF80 49] IPadPro, [000001A1A59FCB00][000001A1A5F7AFC0 49] iPadAir3, [000001A1A5A59800][000001A196BD1140 49] iPadAir4, [000001A1A59FF400][000001A196BD52C0 49] iPadMini2, [000001A1A5A5AA00][000001A196BD9440 49] iPadMini3, [000001A1A59FD700][000001A196BDD5C0 49] iPadMini4, [000001A1A5A91000][000001A196BE1740 49] iPadMini5, [000001A1A5A34300][000001A196BE9A00 49] iPhone6, [000001A1A5A34400][000001A196BE5A40 49] iPodTouch6, [000001A1A59FF600][000001A196BF0180 49] iPhone7, [000001A1A59FD800][000001A196BEC1C0 49] iPodTouch7, [000001A1A5A37F00][000001A1A60E2340 49] iPhone5S, [000001A1A5A5A300][000001A1A60E64C0 49] iPhone6Plus, [000001A1A59FC200][000001A1A60EA640 49] iPhone6S, [000001A1A5A5A200][000001A1A60EE7C0 49] iPhone6SPlus, [000001A1A59FFC00][000001A1A60F2940 49] iPhone7Plus, [000001A1A5A58100][000001A1A5F72A80 49] iPhoneSE, [000001A1A59FF500][000001A1A60F6BC0 49] iPhone8, [000001A1A5A59E00][000001A1A60FAD00 49] iPhone8Plus, [000001A1A59FD000][000001A1A6102E80 49] iPhoneX, [000001A1A5A58A00][000001A1A6107000 49] iPhoneXS, [000001A1A59FD200][000001A1A610B180 49] iPhoneXSMax, [000001A1A5A59500][000001A1A610F300 49] iPhoneXR, [000001A1A59FF700][000001A1A6113480 49] iPhone11, [000001A1A5A58D00][000001A1A6117600 49] iPhone11Pro, [000001A1A59FF800][000001A1A611B780 49] iPhone11ProMax, [000001A1A5A58F00][000001A1A62F7900 49] iPhoneSE2, [000001A1A59FEE00][000001A1A62FBA80 49] iPhone12Mini, [000001A1A5A5B100][000001A1A62FFC00 49] iPhone12, [000001A1A59FEB00][000001A1A6302200 49] iPhone12Pro, [000001A1A5A58800][000001A1A6306380 49] iPhone12ProMax, [000001A1A59FE300][000001A1A630A500 49] iPadPro105, [000001A1A5A5AF00][000001A1A630E680 49] iPadPro129, [000001A1A59FE000][000001A1A6312800 49] iPadPro97, [000001A1A5A59300][000001A1A6316980 49] iPadPro2_129, [000001A1A59FDA00][000001A1A631AB00 49] iPad5, [000001A1A5A59A00][000001A1A60FEC40 49] iPad6, [000001A1A59FE800][000001A1A631ED80 49] iPad7, [000001A1A5A58C00][000001A1A6322EC0 49] iPad8, [000001A1A59FF200][000001A1A632B040 49] iPadPro11, [000001A1A5A59600][000001A1A632F1C0 49] iPadPro2_11, [000001A1A59FDC00][000001A1A6333340 49] iPadPro3_129, [000001A1A5A5B900][000001A1A63374C0 49] iPadPro4_129, [000001A1A59FD500][000001A1A633B640 49] AppleTV, [000001A1A5A58300][000001A1A633F7C0 49] AppleTV4K, [000001A1A59FC100][000001A1A6343940 49] TVOS, [000001A1A5A5A400][000001A1A6347AC0 49] Mac, [000001A1A59FE100][000001A1A634A0C0 49] MacClient, [000001A1A5A5B400][000001A1A634E240 49] MacNoEditor, [000001A1A59FDF00][000001A1A63523C0 49] MacServer, [000001A1A5A58600][000001A1A6356540 49] Linux, [000001A1A59FE200][000001A1A635A6C0 49] LinuxAArch64, [000001A1A5A5B600][000001A1A635E840 49] LinuxNoEditor, [000001A1A59FDD00][000001A1A63629C0 49] LinuxAArch64NoEditor, [000001A1A5A59400][000001A1A6366B40 49] LinuxClient, [000001A1A59FF100][000001A1A636ACC0 49] LinuxAArch64Client, [000001A1A5A59900][000001A1A6326E00 49] LinuxServer, [000001A1A59FF000][000001A1A636EF40 49] LinuxAArch64Server, [000001A1A5A5A600][000001A1A6373080 49] Android, [000001A1A59FC700][000001A1A56071C0 49] Android_Low, [000001A1A5A59B00][000001A1A560F340 49] Android_Mid, [000001A1A5A93A00][000001A1A56134C0 49] Android_High, [000001A1A5A35C00][000001A1A5617640 49] Android_Default, [000001A1A5A92100][000001A1A561B7C0 49] Android_Adreno4xx, [000001A1A5A36700][000001A1A561F940 49] Android_Adreno5xx_Low, [000001A1A5A90B00][000001A1A5623AC0 49] Android_Adreno5xx, [000001A1A5A36D00][000001A1A56260C0 49] Android_Adreno6xx, [000001A1A5A91200][000001A1A562A240 49] Android_Adreno6xx_Vulkan, [000001A1A5A36800][000001A1A562E3C0 49] Android_Mali_T6xx, [000001A1A5A93200][000001A1A5632540 49] Android_Mali_T7xx, [000001A1A5A36E00][000001A1A56366C0 49] Android_Mali_T8xx, [000001A1A5A92500][000001A1A563A840 49] Android_Mali_G71, [000001A1A5A37E00][000001A1A563E9C0 49] Android_Mali_G72, [000001A1A5A92A00][000001A1A5642B40 49] Android_Mali_G72_Vulkan, [000001A1A5A35B00][000001A1A5646CC0 49] Android_Mali_G76, [000001A1A5A91B00][000001A1A564AE40 49] Android_Mali_G76_Vulkan, [000001A1A5A37D00][000001A1A560AF80 49] Android_Mali_G77, [000001A1A5A92D00][000001A1A564F0C0 49] Android_Mali_G77_Vulkan, [000001A1A5A37900][000001A1A5653200 49] Android_Mali_G78, [000001A1A5A90D00][000001A1A5657340 49] Android_Mali_G78_Vulkan, [000001A1A5A34500][000001A1A565F4C0 49] Android_Mali_G710, [000001A1A5A92B00][000001A1A5663640 49] Android_Mali_G710_Vulkan, [000001A1A5A37500][000001A1A56677C0 49] Android_Vulkan_SM5, [000001A1A5A93400][000001A1A566B940 49] Android_PowerVR_G6xxx, [000001A1A5A36400][000001A1A566FAC0 49] Android_PowerVR_GT7xxx, [000001A1A5A93C00][000001A1A56720C0 49] Android_PowerVR_GE8xxx, [000001A1A5A36200][000001A1A5676240 49] Android_PowerVR_GM9xxx, [000001A1A5A93000][000001A1A567A3C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001A1A5A35500][000001A1A567E540 49] Android_TegraK1, [000001A1A5A91100][000001A1A56826C0 49] Android_Unknown_Vulkan, [000001A1A5A5BD00][000001A1A5686840 49] Lumin, [000001A1A5A92900][000001A1A568A9C0 49] Lumin_Desktop, [000001A1A5A5BE00][000001A1A568EB40 49] HoloLens, 
+[2022.03.11-15.19.43:606][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.11-15.19.43:606][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.11-15.19.43:606][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.11-15.19.43:606][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.11-15.19.43:606][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.11-15.19.43:620][  0]LogNetVersion: Blackhole 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1189277789)
+[2022.03.11-15.19.43:969][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.11-15.19.44:017][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.11-15.19.44:022][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.11-15.19.44:022][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.03.11-15.19.44:022][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.11-15.19.44:235][  0]LogPython: Using Python 3.7.7
+[2022.03.11-15.19.44:745][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EC90125146FF916D9F8D158A03D91A46 | Instance: 0A94C27D4E5B16545DBDFEB4BE6D7B12 (SKM_LEGION-24884).
+[2022.03.11-15.19.44:791][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.11-15.19.44:797][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.11-15.19.44:940][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2022.03.11-15.19.44:940][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2022.03.11-15.19.44:940][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2022.03.11-15.19.45:004][  0]SourceControl: Source control is disabled
+[2022.03.11-15.19.45:004][  0]SourceControl: Source control is disabled
+[2022.03.11-15.19.45:007][  0]SourceControl: Source control is disabled
+[2022.03.11-15.19.45:009][  0]SourceControl: Source control is disabled
+[2022.03.11-15.19.45:017][  0]SourceControl: Source control is disabled
+[2022.03.11-15.19.45:029][  0]LogUProjectInfo: Found projects:
+[2022.03.11-15.19.45:177][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.11-15.19.45:230][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.11-15.19.45:249][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.11-15.19.45:249][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.11-15.19.45:355][  0]LogCollectionManager: Loaded 0 collections in 0.000645 seconds
+[2022.03.11-15.19.45:374][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Collections/' took 0.00s
+[2022.03.11-15.19.45:374][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Developers/crazy/Collections/' took 0.00s
+[2022.03.11-15.19.45:374][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Collections/' took 0.00s
+[2022.03.11-15.19.45:374][  0]LogOcInput: OculusInput pre-init called
+[2022.03.11-15.19.45:613][  0]LogEngine: Initializing Engine...
+[2022.03.11-15.19.45:670][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.03.11-15.19.45:724][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.03.11-15.19.45:724][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2022.03.11-15.19.45:724][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2022.03.11-15.19.46:228][  0]LogHMD: Failed to get an OpenXR system, result is XR_ERROR_FORM_FACTOR_UNAVAILABLE. Please check that your runtime supports VR headsets.
+[2022.03.11-15.19.46:228][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.11-15.19.46:228][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.11-15.19.46:327][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.11-15.19.46:335][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.11-15.19.46:346][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.11-15.19.46:350][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.11-15.19.46:350][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.11-15.19.46:351][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.11-15.19.46:351][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.11-15.19.46:351][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.19.46:351][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.19.46:351][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.19.46:351][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.19.46:351][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.19.46:351][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.19.46:351][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.19.46:351][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.19.46:351][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.19.46:351][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.19.46:351][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.19.46:351][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.19.46:361][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.19.46:362][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.19.46:382][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.11-15.19.46:385][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.19.46:387][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.19.46:387][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.19.46:388][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.19.46:388][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.19.46:388][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.19.46:388][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.19.46:388][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.19.46:388][  0]LogInit: FAudioDevice initialized.
+[2022.03.11-15.19.46:388][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.11-15.19.46:389][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.11-15.19.46:432][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/crazy/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.11-15.19.46:432][  0]LogInit: Texture streaming: Enabled
+[2022.03.11-15.19.46:442][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.11-15.19.46:445][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.11-15.19.46:445][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.11-15.19.46:447][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.11-15.19.46:467][  0]LogInit: Transaction tracking system initialized
+[2022.03.11-15.19.46:485][  0]BlueprintLog: New page: Editor Load
+[2022.03.11-15.19.46:534][  0]LocalizationService: Localization service is disabled
+[2022.03.11-15.19.46:553][  0]TimingProfiler: Initialize
+[2022.03.11-15.19.46:553][  0]TimingProfiler: OnSessionChanged
+[2022.03.11-15.19.46:553][  0]LoadingProfiler: Initialize
+[2022.03.11-15.19.46:553][  0]LoadingProfiler: OnSessionChanged
+[2022.03.11-15.19.46:553][  0]NetworkingProfiler: Initialize
+[2022.03.11-15.19.46:553][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.11-15.19.46:553][  0]MemoryProfiler: Initialize
+[2022.03.11-15.19.46:553][  0]MemoryProfiler: OnSessionChanged
+[2022.03.11-15.19.46:666][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.11-15.19.46:666][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.11-15.19.46:823][  0]LogFileCache: Scanning file cache for directory 'D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/' took 0.00s
+[2022.03.11-15.19.47:021][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.11-15.19.47:023][  0]SourceControl: Source control is disabled
+[2022.03.11-15.19.47:023][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.316
+[2022.03.11-15.19.47:023][  0]Cmd: MAP LOAD FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.11-15.19.47:023][  0]LightingResults: New page: Lighting Build
+[2022.03.11-15.19.47:024][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.19.47:024][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.19.47:024][  0]MapCheck: New page: Map Check
+[2022.03.11-15.19.47:024][  0]LightingResults: New page: Lighting Build
+[2022.03.11-15.19.47:029][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-15.19.47:032][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.11-15.19.47:105][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2022.03.11-15.19.47:106][  0]LogAIModule: Creating AISystem for world MainMap
+[2022.03.11-15.19.47:113][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.11-15.19.47:120][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.11-15.19.47:121][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.11-15.19.47:121][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2022.03.11-15.19.47:121][  0]LogFileHelpers: Loading map 'MainMap' took 0.098
+[2022.03.11-15.19.47:122][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.415
+[2022.03.11-15.19.47:218][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.19.47:224][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.19.47:229][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.19.47:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.19.47:247][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3822 classes and 928 folders.
+[2022.03.11-15.19.47:250][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.11-15.19.47:251][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.11-15.19.47:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.11-15.19.47:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.11-15.19.47:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.03.11-15.19.47:252][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.11-15.19.47:252][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.11-15.19.47:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.11-15.19.47:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.11-15.19.47:252][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.11-15.19.47:252][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:252][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.11-15.19.47:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:252][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.11-15.19.47:252][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.11-15.19.47:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.11-15.19.47:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.11-15.19.47:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.11-15.19.47:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.11-15.19.47:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.11-15.19.47:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.11-15.19.47:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:253][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.11-15.19.47:253][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:253][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.11-15.19.47:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.11-15.19.47:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.11-15.19.47:254][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.11-15.19.47:254][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.11-15.19.47:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.11-15.19.47:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.11-15.19.47:254][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:254][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.11-15.19.47:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.11-15.19.47:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:254][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.11-15.19.47:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.11-15.19.47:255][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.11-15.19.47:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.11-15.19.47:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:255][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.11-15.19.47:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.11-15.19.47:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.11-15.19.47:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.11-15.19.47:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.11-15.19.47:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.11-15.19.47:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:256][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.11-15.19.47:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:257][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.11-15.19.47:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.11-15.19.47:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.11-15.19.47:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:257][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.11-15.19.47:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.11-15.19.47:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:257][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.11-15.19.47:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.11-15.19.47:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.11-15.19.47:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.11-15.19.47:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.11-15.19.47:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.11-15.19.47:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.11-15.19.47:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.11-15.19.47:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.11-15.19.47:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.11-15.19.47:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.11-15.19.47:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.11-15.19.47:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:259][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.11-15.19.47:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.11-15.19.47:260][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.11-15.19.47:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.11-15.19.47:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.11-15.19.47:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:260][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.11-15.19.47:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.11-15.19.47:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:260][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.11-15.19.47:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.11-15.19.47:261][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.11-15.19.47:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.11-15.19.47:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.11-15.19.47:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:261][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.11-15.19.47:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.19.47:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.11-15.19.47:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.11-15.19.47:261][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.11-15.19.47:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.11-15.19.47:290][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.11-15.19.47:294][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.03.11-15.19.47:367][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.11-15.19.47:368][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.11-15.19.47:371][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.11-15.19.47:439][  0]LogRenderer: Reallocating scene render targets to support 1440x612 Format 10 NumSamples 1 (Frame:1).
+[2022.03.11-15.19.47:529][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.11-15.19.47:529][  0]LogLoad: (Engine Initialization) Total time: 7.82 seconds
+[2022.03.11-15.19.47:529][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.11-15.19.47:581][  0]LogAssetRegistry: Asset discovery search completed in 4.3622 seconds
+[2022.03.11-15.19.47:586][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.11-15.19.47:588][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.11-15.19.47:656][  4]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.11-15.19.54:904][439]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.11-15.19.54:928][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.19.54:933][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.03.11-15.19.54:941][439]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMapDB71E45E4422D1E888BB3799DBDBBD60.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.19.54:945][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.19.54:959][439]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData76B1AFD84B318279A1304394EE003E85.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.19.54:977][439]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.19.54:977][439]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.19.54:977][439]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.19.55:809][487]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.19.56:000][487]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.11-15.19.56:903][487]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.11-15.19.56:939][488]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.11-15.20.54:608][605]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.20.54:620][605]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHoleE7490F1040860F8896AE62A7A69A4B07.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.20.54:637][605]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.20.54:637][605]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.21.54:139][853]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.11-15.21.54:139][853]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.11-15.21.54:139][853]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.11-15.21.54:139][853]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.11-15.21.54:154][853]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.03.11-15.21.54:162][853]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/ThirdPersonOverview.uasset" to "../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/ThirdPersonBP/ThirdPersonOverview.uasset"
+[2022.03.11-15.21.54:168][853]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" to "../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset"
+[2022.03.11-15.21.54:174][853]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" to "../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset"
+[2022.03.11-15.21.54:185][853]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" to "../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"
+[2022.03.11-15.21.54:196][853]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" to "../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset"
+[2022.03.11-15.21.54:241][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPersonOverview" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2022.03.11-15.21.54:246][853]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/ThirdPersonOverviewF8D094CE480C15821DFE11B6E3C48511.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2022.03.11-15.21.54:275][853]AssetCheck: New page: Asset Save: ThirdPersonOverview
+[2022.03.11-15.21.54:275][853]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+[2022.03.11-15.21.57:325][ 36]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.03.11-15.22.15:749][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.22.15:758][ 72]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole17ADE7AE41D3959F4B244EBAEF549466.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.22.15:779][ 72]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.22.15:779][ 72]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.22.25:259][641]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-15.22.25:587][641]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2022.03.11-15.22.25:608][641]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.03.11-15.22.25:608][641]LogObjectTools: Currently 5 active worlds: /Game/Maps/MainMap.MainMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2022.03.11-15.22.25:632][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.03.11-15.22.27:182][641]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.11-15.22.27:206][641]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.22.27:206][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.22.27:291][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.03.11-15.22.27:310][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.03.11-15.22.27:327][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.11-15.22.27:344][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.03.11-15.22.27:361][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.03.11-15.22.27:378][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.03.11-15.22.27:396][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:413][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.11-15.22.27:431][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.11-15.22.27:448][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.11-15.22.27:465][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.11-15.22.27:484][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.11-15.22.27:505][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.11-15.22.27:522][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.03.11-15.22.27:540][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.03.11-15.22.27:557][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.03.11-15.22.27:574][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:592][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.11-15.22.27:609][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:627][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.03.11-15.22.27:644][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.11-15.22.27:661][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:678][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.11-15.22.27:695][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.11-15.22.27:718][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:736][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.11-15.22.27:753][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.11-15.22.27:771][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.11-15.22.27:788][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:805][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.03.11-15.22.27:823][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.03.11-15.22.27:840][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.11-15.22.27:858][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.11-15.22.27:875][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.11-15.22.27:892][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:910][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.11-15.22.27:930][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.11-15.22.27:947][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:965][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.03.11-15.22.27:983][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.03.11-15.22.28:000][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.11-15.22.28:018][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.11-15.22.28:035][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.03.11-15.22.28:052][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.11-15.22.28:069][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.11-15.22.28:088][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.11-15.22.28:120][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.03.11-15.22.28:137][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.11-15.22.29:083][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.22.29:101][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.03.11-15.22.29:108][693]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMapAA0973CC45CB0C49DB4E8A96F05AE090.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.22.29:112][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.22.29:123][693]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData46F99978434DBEB47951C688370B4A45.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.22.29:142][693]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.22.29:142][693]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.22.29:142][693]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.22.29:879][738]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.22.29:883][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.22.29:883][738]PIE: New page: PIE session: MainMap (11-Mar-2022, 3:22:29 pm)
+[2022.03.11-15.22.29:885][738]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.11-15.22.29:886][738]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.11-15.22.29:886][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.22.29:888][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001890s)
+[2022.03.11-15.22.29:889][738]LogAIModule: Creating AISystem for world MainMap
+[2022.03.11-15.22.29:889][738]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2022.03.11-15.22.29:889][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.003271s)
+[2022.03.11-15.22.29:908][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.03.11-15.22.29:908][738]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.11-15.22.29:908][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.22.29:908][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.22.29:908][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.22.29:908][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.22.29:908][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.22.29:908][738]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.22.29:908][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.22.29:908][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.22.29:909][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.22.29:909][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.22.29:909][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.22.29:909][738]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.22.29:913][738]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.22.29:913][738]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.22.29:925][738]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.11-15.22.29:926][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.22.29:926][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.22.29:926][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.22.29:926][738]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.22.29:926][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.22.29:926][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.22.29:927][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.22.29:927][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.22.29:927][738]LogInit: FAudioDevice initialized.
+[2022.03.11-15.22.29:927][738]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMap'.
+[2022.03.11-15.22.29:933][738]LogLoad: Game class is 'GameModeBase'
+[2022.03.11-15.22.29:935][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2022.03.11-15.22.29
+[2022.03.11-15.22.29:935][738]LogWorld: Bringing up level for play took: 0.000611
+[2022.03.11-15.22.29:935][738]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.03.11-15.22.29:941][738]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.03.11-15.22.29:942][738]PIE: Server logged in
+[2022.03.11-15.22.29:943][738]PIE: Play in editor total start time 0.06 seconds.
+[2022.03.11-15.22.31:381][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.22.31:381][806]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.22.31:382][806]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.22.31:382][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.22.31:391][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.22.31:396][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.22.31:419][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.22.31:420][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.22.31:421][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.22.31:439][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.03.11-15.22.31:455][807]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.03.11-15.22.32:119][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.22.32:144][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.03.11-15.22.32:151][845]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap48AFCC3C40D2F320A5F87B904693DE18.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.22.32:156][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.22.32:169][845]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltDataEC18980545633530B806CBBDE4742766.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.22.32:191][845]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.22.32:191][845]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.22.32:191][845]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.23.46:931][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.23.46:939][901]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole30DAAD534A2DDAF0FA5729B7E28BBC2A.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.23.46:963][901]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.23.46:963][901]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.23.49:138][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.23.49:163][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.03.11-15.23.49:170][ 28]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMapEFA255AF4A8BE2629ED19FA7935E8831.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.23.49:175][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.23.49:186][ 28]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData15320A984FCCC1A1ACEE5797E778CB30.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.23.49:205][ 28]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.23.49:205][ 28]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.23.49:205][ 28]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.23.58:559][140]UATHelper: Zip Project Task (Windows): Running AutomationTool...
+[2022.03.11-15.23.58:559][140]UATHelper: Zip Project Task (Windows): Parsing command line: ZipProjectUp -nocompileeditor -project=D:/Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/ -install=C:/Users/crazy/Desktop/Blackhole.zip
+[2022.03.11-15.23.58:911][143]UATHelper: Zip Project Task (Windows): Started zipping project up
+[2022.03.11-15.23.58:911][143]UATHelper: Zip Project Task (Windows): Project directory: D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole
+[2022.03.11-15.23.58:911][143]UATHelper: Zip Project Task (Windows): Install directory: C:/Users/crazy/Desktop/Blackhole.zip
+[2022.03.11-15.23.58:911][143]UATHelper: Zip Project Task (Windows): Packaging up the project...
+[2022.03.11-15.24.09:314][174]UATHelper: Zip Project Task (Windows): Completed zipping project up
+[2022.03.11-15.24.09:314][174]UATHelper: Zip Project Task (Windows): BUILD SUCCESSFUL
+[2022.03.11-15.24.09:314][174]UATHelper: Zip Project Task (Windows): AutomationTool exiting with ExitCode=0 (Success)
+[2022.03.11-15.25.37:643][177]BlueprintLog: New page: Compile BlackHole
+[2022.03.11-15.25.37:727][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2022.03.11-15.25.37:758][177]LogSlate: Took 0.000097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.11-15.25.38:044][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.25.38:056][192]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole4B4122154E45ADAAEDDE959A44D71775.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.25.38:075][192]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.25.38:075][192]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.25.44:021][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.25.44:030][514]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHoleA7511C1441D34C37D905DF91C770EBF5.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.25.44:053][514]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.25.44:053][514]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.26.02:500][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.26.02:513][513]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole4F0EF4834E1B0132A7BC73A9EDDE08AB.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.26.02:533][513]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.26.02:533][513]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.27.22:321][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.27.22:333][974]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole6E58EFC149129F78315D2498BCE23AF2.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.27.22:359][974]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.27.22:359][974]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.27.23:426][ 33]BlueprintLog: New page: Compile BlackHole
+[2022.03.11-15.27.23:492][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.03.11-15.27.31:145][430]BlueprintLog: New page: Collapse to Function
+[2022.03.11-15.27.40:766][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.27.40:778][923]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole55FD123640E7C3539B672FA35DCF2429.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.27.40:797][923]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.27.40:797][923]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.27.43:008][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.27.43:017][ 55]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole7BA029C24B805C2012E25FA7085AAFEA.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.27.43:039][ 55]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.27.43:040][ 55]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.27.45:386][193]BlueprintLog: New page: Compile BlackHole
+[2022.03.11-15.27.45:430][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.03.11-15.27.48:557][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.27.48:570][357]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole903144E04A952625D41EDD9CEC9B4E3A.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.27.48:594][357]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.27.48:594][357]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.28.00:439][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.28.00:451][  5]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole2FE91F1347E5251E020D6B8057D6B0A2.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.28.00:469][  5]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.28.00:469][  5]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.28.00:576][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.28.00:600][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.11-15.28.00:609][ 11]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMapFF549BA44CFAFEBE88A7D7BAEB7C6999.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.28.00:614][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.28.00:626][ 11]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltDataFFF8ADD84CA1B4A062F2A58C60668086.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.28.00:644][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.28.00:644][ 11]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.28.00:644][ 11]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.28.00:735][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.28.00:759][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.11-15.28.00:766][ 16]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap133A938241D2EACAE555838EF44904B0.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.28.00:771][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.28.00:783][ 16]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData008EC75D4B719020F89CD7906849E818.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.28.00:803][ 16]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.28.00:803][ 16]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.28.00:803][ 16]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.28.02:254][ 99]BlueprintLog: New page: Compile BlackHole
+[2022.03.11-15.28.02:295][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.03.11-15.28.02:801][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.28.02:812][121]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole197A92614744EF2EA07FF1B8A934BB42.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.28.02:832][121]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.28.02:833][121]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.28.06:859][341]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.28.06:864][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.28.06:865][341]PIE: New page: PIE session: MainMap (11-Mar-2022, 3:28:06 pm)
+[2022.03.11-15.28.06:865][341]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.28.06:867][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001920s)
+[2022.03.11-15.28.06:869][341]LogAIModule: Creating AISystem for world MainMap
+[2022.03.11-15.28.06:869][341]LogPlayLevel: PIE: World Init took: (0.001825s)
+[2022.03.11-15.28.06:869][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.003922s)
+[2022.03.11-15.28.06:894][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.03.11-15.28.06:895][341]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.11-15.28.06:895][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.28.06:895][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.28.06:895][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.28.06:895][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.28.06:895][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.28.06:895][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.28.06:895][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.28.06:895][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.28.06:895][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.28.06:895][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.28.06:895][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.28.06:895][341]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.28.06:900][341]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.28.06:900][341]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.28.06:912][341]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.11-15.28.06:912][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.28.06:912][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.28.06:912][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.28.06:912][341]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.28.06:912][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.28.06:912][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.28.06:913][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.28.06:913][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.28.06:913][341]LogInit: FAudioDevice initialized.
+[2022.03.11-15.28.06:913][341]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMap'.
+[2022.03.11-15.28.06:925][341]LogLoad: Game class is 'GameModeBase'
+[2022.03.11-15.28.06:926][341]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2022.03.11-15.28.06
+[2022.03.11-15.28.06:927][341]LogWorld: Bringing up level for play took: 0.000562
+[2022.03.11-15.28.06:927][341]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.03.11-15.28.06:929][341]PIE: Server logged in
+[2022.03.11-15.28.06:929][341]PIE: Play in editor total start time 0.067 seconds.
+[2022.03.11-15.28.08:049][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.28.08:049][406]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.28.08:049][406]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.28.08:049][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.28.08:057][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.28.08:062][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.28.08:084][406]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-15.28.08:084][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.28.08:085][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.28.08:087][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.28.08:090][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.11-15.28.08:123][408]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.03.11-15.28.08:661][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.28.08:684][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.11-15.28.08:691][439]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap61422D79485DC1ECC9EBE9B3D09F1C0C.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.28.08:695][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.28.08:708][439]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData17C6A2C14383767F10C58BB07AC34F08.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.28.08:728][439]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.28.08:728][439]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.28.08:728][439]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.28.24:209][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.28.24:230][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.11-15.28.24:237][735]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap3575BEDF4AA14504FBD8E3AA624FBCD4.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.28.24:242][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.28.24:253][735]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltDataDEBA57654A02ED01538490BFB5CB868E.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.28.24:272][735]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.28.24:273][735]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.28.24:273][735]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.28.33:957][276]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMap.MainMap:PersistentLevel.MainMap
+[2022.03.11-15.29.09:613][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.29.09:643][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.03.11-15.29.09:652][ 89]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMapF7C91FB94355B7F31F5E9498F936A8DC.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.29.09:655][ 89]LogFileHelpers: Saving map 'MainMap' took 0.044
+[2022.03.11-15.29.09:675][ 89]AssetCheck: New page: Asset Save: MainMap
+[2022.03.11-15.29.09:675][ 89]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.29.10:458][134]BlueprintLog: New page: Compile MainMap
+[2022.03.11-15.29.10:460][134]LogBlueprint: Error: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\Maps\MainMap.umap: [Compiler] This blueprint (self) is not a BlackHole_C, therefore ' Target ' must have a connection.
+[2022.03.11-15.29.10:489][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.03.11-15.29.32:363][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.29.32:389][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.03.11-15.29.32:399][273]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMapA9295B9741B9587BFE0592962B891530.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.29.32:402][273]LogFileHelpers: Saving map 'MainMap' took 0.039
+[2022.03.11-15.29.32:421][273]AssetCheck: New page: Asset Save: MainMap
+[2022.03.11-15.29.32:421][273]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.30.31:134][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.30.31:145][556]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole93D933714AEC6AB3672EE5A750B09EAD.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.30.31:167][556]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.30.31:167][556]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.30.51:974][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.30.52:001][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.03.11-15.30.52:011][580]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap81E1DCBE431B320D672F3884B0152FEA.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.30.52:014][580]LogFileHelpers: Saving map 'MainMap' took 0.041
+[2022.03.11-15.30.52:033][580]AssetCheck: New page: Asset Save: MainMap
+[2022.03.11-15.30.52:033][580]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.30.54:363][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.30.54:388][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.03.11-15.30.54:396][718]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap0BD3539842511E5BB95E7E9A6308CE2B.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.30.54:400][718]LogFileHelpers: Saving map 'MainMap' took 0.037
+[2022.03.11-15.30.54:421][718]AssetCheck: New page: Asset Save: MainMap
+[2022.03.11-15.30.54:421][718]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.30.54:529][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.30.54:538][724]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole1B739C184617A677A73EA19464855284.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.30.54:559][724]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.30.54:559][724]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.30.54:668][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.30.54:678][730]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHoleBFF969DE4861809A0C30C3856CCBD763.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.30.54:706][730]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.30.54:706][730]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.30.55:338][765]BlueprintLog: New page: Compile MainMap
+[2022.03.11-15.30.55:379][765]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.11-15.30.55:959][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.30.55:984][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.11-15.30.55:992][794]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap7E1A7AF548AC8423A05321B2505906F3.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.30.56:001][794]LogFileHelpers: Saving map 'MainMap' took 0.042
+[2022.03.11-15.30.56:021][794]AssetCheck: New page: Asset Save: MainMap
+[2022.03.11-15.30.56:021][794]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.30.56:332][810]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.30.56:332][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.30.57:418][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.30.57:427][870]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole4F9D5F8D495BB9F282D68CACB3BD6FD0.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.30.57:450][870]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.30.57:450][870]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.30.57:599][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.30.57:608][878]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole303F7D42455656EDC88AD6BCD75ACEB9.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.30.57:630][878]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.30.57:630][878]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.30.58:657][934]BlueprintLog: New page: Compile BlackHole
+[2022.03.11-15.30.58:702][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.03.11-15.30.59:168][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.30.59:178][955]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole538F24044E28240626D02D924F0E663F.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.30.59:199][955]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.30.59:200][955]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.03:293][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.31.03:303][186]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHoleD36FCBE542CEFA6013818DB98BDF2968.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.31.03:325][186]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.31.03:325][186]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.03:487][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.31.03:496][195]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHoleB170B365470B4CF466614AAD0BE52E14.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.31.03:517][195]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.31.03:517][195]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.03:648][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.31.03:657][202]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole54B42AD146330DE5B39E50BA72510B3A.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.31.03:677][202]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.31.03:677][202]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.08:289][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.31.08:301][464]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole0E2145FE48272F2AEBF35AB65A25C09F.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.31.08:319][464]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.31.08:319][464]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.08:431][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.31.08:440][470]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHoleC8C6F4C342C74F239B0918A8DB3FA666.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.31.08:462][470]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.31.08:463][470]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.08:577][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.31.08:587][476]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHoleC77091D14016E29DD80FDF838092D53B.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.31.08:608][476]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.31.08:608][476]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.09:706][537]BlueprintLog: New page: Compile BlackHole
+[2022.03.11-15.31.09:749][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.03.11-15.31.10:307][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.31.10:318][565]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHoleA6BDBD7743202DA6CB77DFB9AF9D5A98.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.31.10:345][565]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.31.10:346][565]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.38:746][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/BlackHole" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset" SILENT=true
+[2022.03.11-15.31.38:755][161]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/BlackHole28571783462B648ACBCA2492051A5F11.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/BlackHole.uasset'
+[2022.03.11-15.31.38:778][161]AssetCheck: New page: Asset Save: BlackHole
+[2022.03.11-15.31.38:778][161]LogContentValidation: Display: Validating Blueprint /Game/Scripts/BlackHole.BlackHole
+[2022.03.11-15.31.52:293][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.11-15.31.58:481][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.31.58:507][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.03.11-15.31.58:519][340]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMapFBAAA96C4594A669EC6702A8CBBBD0F7.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.31.58:523][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.31.58:536][340]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltDataF325C7FD408CDF06B77F39ADB610545D.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.31.58:561][340]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.31.58:561][340]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.31.58:561][340]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.32.00:975][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.11-15.32.01:718][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.32.01:741][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.03.11-15.32.01:750][528]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap570D484E468868963D19B48A000A3C85.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.32.01:755][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.32.01:766][528]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltDataBA9B12BA45DF9CE85CF76DAA610DBF79.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.32.01:787][528]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.32.01:787][528]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.32.01:787][528]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.32.09:224][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.32.09:250][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.03.11-15.32.09:260][970]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap6FE6F6004B8FF08F226C69BA1B7BFB14.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.32.09:265][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.32.09:276][970]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData9591376A4C9B038D8AC6D38FA5CB1386.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.32.09:296][970]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.32.09:296][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.32.09:296][970]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.32.09:530][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Interactables" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/Interactables.uasset" SILENT=true
+[2022.03.11-15.32.09:537][982]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/InteractablesF52A48E4436D36F9684477BAF1303CE7.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/Interactables.uasset'
+[2022.03.11-15.32.09:557][982]AssetCheck: New page: Asset Save: Interactables
+[2022.03.11-15.32.09:557][982]LogContentValidation: Display: Validating Blueprint /Game/Scripts/Interactables.Interactables
+[2022.03.11-15.32.09:655][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Interactables" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/Interactables.uasset" SILENT=true
+[2022.03.11-15.32.09:658][987]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/Interactables368B0DD14DEB083DDDBE3695FB0D42FC.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Scripts/Interactables.uasset'
+[2022.03.11-15.32.09:686][987]AssetCheck: New page: Asset Save: Interactables
+[2022.03.11-15.32.09:686][987]LogContentValidation: Display: Validating Blueprint /Game/Scripts/Interactables.Interactables
+[2022.03.11-15.32.12:310][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.11-15.32.15:655][345]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.11-15.32.18:604][512]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.11-15.32.19:590][566]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.11-15.32.20:414][613]LogRenderer: Reallocating scene render targets to support 1592x744 Format 10 NumSamples 1 (Frame:26140).
+[2022.03.11-15.32.20:452][614]LogRenderer: Reallocating scene render targets to support 1856x976 Format 10 NumSamples 1 (Frame:26142).
+[2022.03.11-15.32.20:498][615]LogRenderer: Reallocating scene render targets to support 1912x1028 Format 10 NumSamples 1 (Frame:26144).
+[2022.03.11-15.32.20:546][616]LogRenderer: Reallocating scene render targets to support 1920x1032 Format 10 NumSamples 1 (Frame:26146).
+[2022.03.11-15.32.30:621][219]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.32.30:625][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.32.30:625][219]PIE: New page: PIE session: MainMap (11-Mar-2022, 3:32:30 pm)
+[2022.03.11-15.32.30:625][219]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.32.30:628][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002246s)
+[2022.03.11-15.32.30:629][219]LogAIModule: Creating AISystem for world MainMap
+[2022.03.11-15.32.30:629][219]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2022.03.11-15.32.30:629][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.003787s)
+[2022.03.11-15.32.30:654][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.03.11-15.32.30:657][219]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.11-15.32.30:658][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.32.30:658][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.32.30:658][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.32.30:658][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.32.30:658][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.32.30:658][219]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.32.30:658][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.32.30:658][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.32.30:658][219]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.32.30:658][219]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.32.30:658][219]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.32.30:658][219]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.32.30:663][219]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.32.30:663][219]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.32.30:675][219]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.11-15.32.30:675][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.32.30:675][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.32.30:675][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.32.30:675][219]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.32.30:675][219]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.32.30:675][219]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.32.30:676][219]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.32.30:676][219]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.32.30:676][219]LogInit: FAudioDevice initialized.
+[2022.03.11-15.32.30:676][219]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMap'.
+[2022.03.11-15.32.30:685][219]LogLoad: Game class is 'GameModeBase'
+[2022.03.11-15.32.30:686][219]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2022.03.11-15.32.30
+[2022.03.11-15.32.30:687][219]LogWorld: Bringing up level for play took: 0.000657
+[2022.03.11-15.32.30:687][219]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.03.11-15.32.30:688][219]PIE: Server logged in
+[2022.03.11-15.32.30:689][219]PIE: Play in editor total start time 0.066 seconds.
+[2022.03.11-15.32.47:740][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.32.47:741][240]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.32.47:741][240]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.32.47:741][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.32.47:752][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.32.47:761][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.32.47:783][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-15.32.47:783][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.32.47:785][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.32.47:786][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.32.47:789][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.03.11-15.32.47:808][241]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.03.11-15.32.59:363][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.32.59:388][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.03.11-15.32.59:398][924]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap742B60114EFC1D9D7ABF0A8DF26113A1.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.32.59:403][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.32.59:416][924]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData7D8667BC41CA8F2F8377BFADA11D194C.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.32.59:434][924]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.32.59:434][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.32.59:434][924]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.32.59:745][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.32.59:768][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.03.11-15.32.59:777][942]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap4B7916964BAA85D71E661EACBC156838.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.32.59:781][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.32.59:793][942]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltDataF251583A452872804CD59EAAE5E6CD35.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.32.59:812][942]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.32.59:812][942]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.32.59:812][942]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.32.59:892][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.32.59:915][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.11-15.32.59:923][946]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMapCCC6DF64432DD1CD2FD7B79DADDA45F5.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.32.59:928][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.32.59:940][946]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData3BFBE1324520D321A0A2149DF55E76EE.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.32.59:962][946]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.32.59:962][946]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.32.59:962][946]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.33.00:874][  1]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.11-15.33.06:191][316]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.33.06:194][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.33.06:195][316]PIE: New page: PIE session: MainMap (11-Mar-2022, 3:33:06 pm)
+[2022.03.11-15.33.06:195][316]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.33.06:198][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002468s)
+[2022.03.11-15.33.06:199][316]LogAIModule: Creating AISystem for world MainMap
+[2022.03.11-15.33.06:199][316]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2022.03.11-15.33.06:199][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004263s)
+[2022.03.11-15.33.06:223][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.11-15.33.06:225][316]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.11-15.33.06:225][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.33.06:225][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.33.06:225][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.33.06:225][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.33.06:225][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.33.06:225][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.33.06:225][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.33.06:225][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.33.06:226][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.33.06:226][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.33.06:226][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.33.06:226][316]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.33.06:230][316]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.33.06:230][316]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.33.06:242][316]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.11-15.33.06:242][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.33.06:242][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.33.06:242][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.33.06:242][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.33.06:242][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.33.06:242][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.33.06:243][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.33.06:243][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.33.06:243][316]LogInit: FAudioDevice initialized.
+[2022.03.11-15.33.06:243][316]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMap'.
+[2022.03.11-15.33.06:254][316]LogLoad: Game class is 'GameModeBase'
+[2022.03.11-15.33.06:255][316]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2022.03.11-15.33.06
+[2022.03.11-15.33.06:255][316]LogWorld: Bringing up level for play took: 0.000641
+[2022.03.11-15.33.06:255][316]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.03.11-15.33.06:257][316]PIE: Server logged in
+[2022.03.11-15.33.06:258][316]PIE: Play in editor total start time 0.065 seconds.
+[2022.03.11-15.33.23:401][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.33.23:401][342]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.33.23:401][342]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.33.23:401][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.33.23:413][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.33.23:423][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.33.23:445][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.33.23:445][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.33.23:446][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.33.23:451][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.11-15.33.23:471][343]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.03.11-15.33.30:577][768]LogEditorViewport: Clicking on Actor (LMB): BlackHole_C (BlackHole)
+[2022.03.11-15.33.32:490][882]Cmd: EDIT COPY
+[2022.03.11-15.33.32:823][902]Cmd: EDIT PASTE
+[2022.03.11-15.33.34:191][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.33.34:216][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.11-15.33.34:227][982]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap724215174550DD6DA5E046AFDE52D8F9.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.33.34:232][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.33.34:242][982]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltDataBF405C324A6A2A2C94F225AD8987A75E.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.33.34:269][982]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.33.34:269][982]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.33.34:269][982]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.33.35:378][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.33.35:403][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.03.11-15.33.35:412][ 47]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap765B919549A4E9E8DCB566B3036AB1BC.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.33.35:423][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.33.35:435][ 47]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltDataE17C26BB4FC00EBB5AB3FEA415A4611E.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.33.35:461][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.33.35:461][ 47]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.33.35:461][ 47]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.33.36:791][127]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.03.11-15.33.39:854][310]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.11-15.33.39:858][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.11-15.33.39:858][310]PIE: New page: PIE session: MainMap (11-Mar-2022, 3:33:39 pm)
+[2022.03.11-15.33.39:889][310]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.33.39:892][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002357s)
+[2022.03.11-15.33.39:894][310]LogAIModule: Creating AISystem for world MainMap
+[2022.03.11-15.33.39:894][310]LogPlayLevel: PIE: World Init took: (0.001590s)
+[2022.03.11-15.33.39:894][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.004104s)
+[2022.03.11-15.33.39:918][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.03.11-15.33.39:919][310]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.11-15.33.39:919][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.11-15.33.39:919][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.11-15.33.39:919][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.11-15.33.39:919][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.11-15.33.39:919][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.11-15.33.39:919][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.11-15.33.39:919][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.11-15.33.39:919][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.11-15.33.39:920][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.11-15.33.39:920][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.11-15.33.39:920][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.11-15.33.39:920][310]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.11-15.33.39:925][310]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.11-15.33.39:925][310]LogAudioMixer: Display: 1: FrontRight
+[2022.03.11-15.33.39:937][310]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.11-15.33.39:938][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.11-15.33.39:938][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.11-15.33.39:938][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.11-15.33.39:938][310]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.11-15.33.39:938][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.11-15.33.39:938][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.11-15.33.39:939][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.11-15.33.39:939][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.11-15.33.39:939][310]LogInit: FAudioDevice initialized.
+[2022.03.11-15.33.39:939][310]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMap'.
+[2022.03.11-15.33.39:948][310]LogLoad: Game class is 'GameModeBase'
+[2022.03.11-15.33.39:949][310]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2022.03.11-15.33.39
+[2022.03.11-15.33.39:949][310]LogWorld: Bringing up level for play took: 0.000719
+[2022.03.11-15.33.39:949][310]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.11-15.33.39:951][310]PIE: Server logged in
+[2022.03.11-15.33.39:952][310]PIE: Play in editor total start time 0.095 seconds.
+[2022.03.11-15.34.01:841][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.34.01:841][622]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2022.03.11-15.34.01:841][622]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.34.01:841][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.34.01:853][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.11-15.34.01:863][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.34.01:884][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.11-15.34.01:884][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.34.01:885][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.11-15.34.01:891][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.11-15.34.01:946][624]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.11-15.34.04:764][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.34.04:788][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.03.11-15.34.04:797][790]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap58E3C7E74D721B299C82BAAAC4B37F2B.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.34.04:803][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.34.04:815][790]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData298D30E7408874DF7D46099AEED67110.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.34.04:833][790]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.34.04:833][790]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.34.04:833][790]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.48.13:851][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.11-15.48.13:876][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.03.11-15.48.13:887][461]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap90E5BD2640D657E0466D75A820387C0F.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap.umap'
+[2022.03.11-15.48.13:892][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.03.11-15.48.13:904][461]LogSavePackage: Moving '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Saved/MainMap_BuiltData05FAD91D4A8CAD4515B1889C7976B060.tmp' to '../../../../../Programming/UE4/GOLDSMITHS/Blackhole/Blackhole/Content/Maps/MainMap_BuiltData.uasset'
+[2022.03.11-15.48.13:925][461]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.11-15.48.13:925][461]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.03.11-15.48.13:925][461]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2022.03.11-15.48.19:759][811]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.11-15.48.19:762][811]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.03.11-15.48.19:772][811]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.03.11-15.48.20:042][811]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.03.11-15.48.20:494][811]LogTexture: Display: Building textures: DeprecatedTextureF60039EB445BD313D9FB3B83A10248ED (BGRA8, 128X128)
+[2022.03.11-15.48.20:557][811]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.03.11-15.48.20:561][811]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.03.11-15.48.20:958][811]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2022.03.11-15.48.20:963][811]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2022.03.11-15.48.20:971][811]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2022.03.11-15.48.20:977][811]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2022.03.11-15.48.20:981][811]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2022.03.11-15.48.20:986][811]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2022.03.11-15.48.20:991][811]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2022.03.11-15.48.20:995][811]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2022.03.11-15.48.21:001][811]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2022.03.11-15.48.21:006][811]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2022.03.11-15.48.21:506][811]LogObjectTools: Deleting 3 worlds: /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.03.11-15.48.21:506][811]LogObjectTools: Currently 6 active worlds: /Game/Maps/MainMap.MainMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_5
+[2022.03.11-15.48.21:539][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.03.11-15.48.26:829][811]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.11-15.48.26:950][811]LogSlate: Window 'BlackHole' being destroyed
+[2022.03.11-15.48.26:959][811]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-15.48.26:959][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-15.48.27:004][811]LogUObjectGlobals: Force Deleting 270 Package(s):
+	Asset Name: /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+	Asset Name: /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+	Asset Name: /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+	Asset Name: /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+	Asset Name: /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x300.Wall_400x300
+	Asset Name: /Game/StarterContent/Architecture/Wall_400x400.Wall_400x400
+	Asset Name: /Game/StarterContent/Architecture/Wall_500x500.Wall_500x500
+	Asset Name: /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2022.03.11-15.48.30:266][811]LogStaticMesh: Building static mesh Shape_Cube...
+[2022.03.11-15.48.30:267][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2022.03.11-15.48.30:276][811]LogStaticMesh: Building static mesh Shape_WideCapsule...
+[2022.03.11-15.48.30:281][811]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule
+[2022.03.11-15.48.30:290][811]LogStaticMesh: Building static mesh Shape_Wedge_B...
+[2022.03.11-15.48.30:291][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B
+[2022.03.11-15.48.30:293][811]LogStaticMesh: Building static mesh Shape_Wedge_A...
+[2022.03.11-15.48.30:293][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Wedge_A.Shape_Wedge_A
+[2022.03.11-15.48.30:297][811]LogStaticMesh: Building static mesh Shape_Tube...
+[2022.03.11-15.48.30:303][811]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Tube.Shape_Tube
+[2022.03.11-15.48.30:312][811]LogStaticMesh: Building static mesh Shape_TriPyramid...
+[2022.03.11-15.48.30:312][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_TriPyramid.Shape_TriPyramid
+[2022.03.11-15.48.30:314][811]LogStaticMesh: Building static mesh Shape_Trim_90_Out...
+[2022.03.11-15.48.30:317][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim_90_Out.Shape_Trim_90_Out
+[2022.03.11-15.48.30:322][811]LogStaticMesh: Building static mesh Shape_Trim_90_In...
+[2022.03.11-15.48.30:324][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim_90_In.Shape_Trim_90_In
+[2022.03.11-15.48.30:327][811]LogStaticMesh: Building static mesh Shape_Trim...
+[2022.03.11-15.48.30:329][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Trim.Shape_Trim
+[2022.03.11-15.48.30:335][811]LogStaticMesh: Building static mesh Shape_Torus...
+[2022.03.11-15.48.30:348][811]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2022.03.11-15.48.30:361][811]LogStaticMesh: Building static mesh Shape_Plane...
+[2022.03.11-15.48.30:361][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2022.03.11-15.48.30:364][811]LogStaticMesh: Building static mesh Shape_Pipe_90...
+[2022.03.11-15.48.30:369][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90
+[2022.03.11-15.48.30:380][811]LogStaticMesh: Building static mesh Shape_Pipe_180...
+[2022.03.11-15.48.30:389][811]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180
+[2022.03.11-15.48.30:403][811]LogStaticMesh: Building static mesh Shape_Pipe...
+[2022.03.11-15.48.30:405][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.03.11-15.48.30:409][811]LogStaticMesh: Building static mesh Shape_NarrowCapsule...
+[2022.03.11-15.48.30:416][811]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule
+[2022.03.11-15.48.30:427][811]LogStaticMesh: Building static mesh Shape_Cylinder...
+[2022.03.11-15.48.30:431][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2022.03.11-15.48.30:435][811]LogStaticMesh: Building static mesh Shape_Cone...
+[2022.03.11-15.48.30:437][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2022.03.11-15.48.30:440][811]LogStaticMesh: Building static mesh SM_Stairs...
+[2022.03.11-15.48.30:442][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2022.03.11-15.48.30:452][811]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: 59D820FB6DC49F71A43DBF75E2EB4870B479FFC8), compiling. 
+[2022.03.11-15.48.30:458][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Shelf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:458][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:459][811]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: 59D820FB6DC49F71A43DBF75E2EB4870B479FFC8), compiling. 
+[2022.03.11-15.48.30:460][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Shelf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:460][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:461][811]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: 59D820FB6DC49F71A43DBF75E2EB4870B479FFC8), compiling. 
+[2022.03.11-15.48.30:461][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Shelf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:461][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:463][811]LogMaterial: Display: Missing cached shadermap for M_Shelf in PCD3D_SM5, Default, SM5 (DDC key hash: 59D820FB6DC49F71A43DBF75E2EB4870B479FFC8), compiling. 
+[2022.03.11-15.48.30:463][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Shelf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:463][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:465][811]LogStaticMesh: Building static mesh SM_Shelf...
+[2022.03.11-15.48.30:469][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2022.03.11-15.48.30:471][811]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.03.11-15.48.30:472][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:472][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:473][811]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.03.11-15.48.30:474][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:474][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:475][811]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.03.11-15.48.30:475][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:475][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:477][811]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.03.11-15.48.30:477][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:477][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:478][811]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.03.11-15.48.30:479][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:479][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:480][811]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.03.11-15.48.30:481][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:481][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:482][811]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.03.11-15.48.30:483][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:483][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:484][811]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.03.11-15.48.30:484][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:484][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:486][811]LogStaticMesh: Building static mesh SM_Rock...
+[2022.03.11-15.48.30:494][811]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2022.03.11-15.48.30:516][811]LogStaticMesh: Building static mesh SM_MatPreviewMesh_02...
+[2022.03.11-15.48.30:597][811]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02
+[2022.03.11-15.48.30:649][811]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM5, Default, SM5 (DDC key hash: EBCC33D47FACE465A8670045C3ABB810AD455490), compiling. 
+[2022.03.11-15.48.30:649][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:649][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:652][811]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM5, Default, SM5 (DDC key hash: EBCC33D47FACE465A8670045C3ABB810AD455490), compiling. 
+[2022.03.11-15.48.30:653][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:653][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:654][811]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM5, Default, SM5 (DDC key hash: EBCC33D47FACE465A8670045C3ABB810AD455490), compiling. 
+[2022.03.11-15.48.30:654][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:654][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:655][811]LogMaterial: Display: Missing cached shadermap for M_Door in PCD3D_SM5, Default, SM5 (DDC key hash: EBCC33D47FACE465A8670045C3ABB810AD455490), compiling. 
+[2022.03.11-15.48.30:655][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Door.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:655][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:658][811]LogStaticMesh: Building static mesh SM_Door...
+[2022.03.11-15.48.30:667][811]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2022.03.11-15.48.30:678][811]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 88020133558D54A4B0CE37F276EE0FDC915E8AC1), compiling. 
+[2022.03.11-15.48.30:678][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:678][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:680][811]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 88020133558D54A4B0CE37F276EE0FDC915E8AC1), compiling. 
+[2022.03.11-15.48.30:680][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:680][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:682][811]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 88020133558D54A4B0CE37F276EE0FDC915E8AC1), compiling. 
+[2022.03.11-15.48.30:682][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:682][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:684][811]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 88020133558D54A4B0CE37F276EE0FDC915E8AC1), compiling. 
+[2022.03.11-15.48.30:685][811]LogMaterial: Warning: [AssetLog] D:\Programming\UE4\GOLDSMITHS\Blackhole\Blackhole\Content\StarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.11-15.48.30:685][811]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.03.11-15.48.30:686][811]LogStaticMesh: Building static mesh SM_Bush...
+[2022.03.11-15.48.30:691][811]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2022.03.11-15.48.30:693][811]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (2 / 2)
