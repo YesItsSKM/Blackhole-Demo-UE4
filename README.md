@@ -1,5 +1,10 @@
 # Blackhole-Demo-UE4
-This repo contains my project in which I've tried to make a simple blackhole that attracts objects towards it if they are labled as 'interactable'.
+
+- Built a physics-based blackhole using Blueprints that utilizes vector maths at its core to attract
+objects. There can be multiple Blackhole blueprints in the scene as well, interacting with the
+objects simultaneously.
+
+- Also made a specific material for the light bending effect around the blackhole.
 
 ### Demo video:
 
